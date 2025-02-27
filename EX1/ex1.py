@@ -33,3 +33,5 @@ f.show()
 f.bt1.clicked.connect(test)
 f.bt2.clicked.connect(reset)
 app.exec_()
+
+#CODED BY AYOUB

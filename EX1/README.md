@@ -1,2 +1,2 @@
 #APPLICATION 1
-![exercice]="EX1.png"
+![exercice]("EX1.png")
