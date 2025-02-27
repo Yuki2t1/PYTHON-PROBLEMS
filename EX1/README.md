@@ -1,2 +1,2 @@
-#APPLICATION 1
-![exercice]("EX1.png")
+# APPLICATION 1
+![exercice](EX1.png)
